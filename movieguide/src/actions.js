@@ -1,0 +1,4 @@
+export const FILTER_CHANGED = 'FILTER_CHANGED';
+export const MOVIES_LOADED = 'MOVIES_LOADED';
+export const FAVOURITED = 'FAVOURITED';
+export const UNFAVOURITED = 'UNFAVOURITED';
